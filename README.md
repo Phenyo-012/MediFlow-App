@@ -219,6 +219,7 @@ A physical phone with a working camera is recommended when demonstrating barcode
 2. Select the emulator or connected phone.
 3. Click the green **Run ▶** button.
 4. When MediFlow opens, **Sign In** with an authorised Firebase account while online. If that account has enrolled an authenticator, complete the prompted **six-digit TOTP verification**.
+5. Use the following test Credentials: **Email:** mediflow.admin2@mediflow.com , **Password:** password123
 5. To enroll optionally, open **More → Account Security** and follow the QR-code/setup-key instructions (a verified email address is required for enrollment).
 6. If the account is enrolled for offline access, subsequent locked sessions can use **Unlock Saved Session** with the device's authentication prompt.
 
